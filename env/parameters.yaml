@@ -1,0 +1,10 @@
+adminUser:
+  password: local:pr-1121-9-bdd-frontend/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jenkins-x@googlegroups.com
+  token: local:pr-1121-9-bdd-frontend/pipelineUser:token
+  username: cjxd-bot-test
+prow:
+  hmacToken: local:pr-1121-9-bdd-frontend/prow:hmacToken
